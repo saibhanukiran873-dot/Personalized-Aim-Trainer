@@ -36,9 +36,7 @@ The project includes two main Python files:
 ## Setup Instructions
 
 1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/yourusername/Aim-Trainer.git
-   cd Aim-Trainer
+  
 2. **Install Dependencies: This project uses Pygame. Install it via pip:**
    pip install pygame
    
